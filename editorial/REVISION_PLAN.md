@@ -23,9 +23,9 @@ The previous suggestions to relocate **Cain** from Chapter 6 to Chapter 2, or **
 
 ## 2. Source hierarchy and privacy
 
-Read `editorial/CODEX_START.md` first. Establish final wording for Chapters 1–7 from the 27 October working text and Chapters 8–13 from V2. Consult the full master, Claude-assembled back half and V2 change record for provenance, omissions and previous structural decisions. Distinguish the current working text from archive versions.
+Read `editorial/CODEX_START.md` first. The author will supply the source documents **directly to Codex** as accessible attachments or local files; they need not reside in GitHub or under `sources/`. Establish preferred wording for Chapters 1–7 from the latest complete manuscript the author supplies and for Chapters 8–13 from V2. Consult Claude's condensed back half and the V2 editorial change record for provenance, omissions and previous structural decisions. An earlier full master is optional if the author supplies one. Distinguish the current working text from archive versions.
 
-**These source files may contain sensitive autobiographical content.** The GitHub repository is public. Keep sources in an untracked/local `sources/` directory for the audit. Do not commit sources or long personal quotations from those sources to public GitHub without explicit author approval. Reports in `editorial/reports/` should remain local or on a review branch with no private details until approved.
+**These source files may contain sensitive autobiographical content.** The GitHub repository is public. Keep sources as untracked local files or Codex attachments; an untracked `sources/` directory is optional, not required. Do not commit sources or long personal quotations from those sources to public GitHub without explicit author approval. Reports in `editorial/reports/` should remain local or on a review branch with no private details until approved.
 
 ### Source integrity checks
 
@@ -75,13 +75,13 @@ All agents read the **entire selected manuscript**, not merely assigned chapters
 ## 5. Audit procedure and gates
 
 ### Gate 0 — Verify, freeze and locate
-Confirm the five source files and precedence. Record checksums and extract stable paragraph inventory. **If required inputs are unavailable, stop.** No reliance on the older repository book PDFs as replacements.
+Confirm the four required author-supplied files (latest manuscript, back-half V2, Claude condensed back half, V2 change record) wherever they are accessible, plus any optional older full master. Record checksums where file bytes are accessible and extract a stable paragraph inventory. **If a required input is genuinely inaccessible, identify it rather than substituting older versions.** No reliance on the older repository book PDFs as replacements.
 
 ### Gate 1 — Read whole book and diagram argument
 Create a 13-chapter map that explains exactly how the reader's understanding changes chapter to chapter. Document major scenes and planted/payoff motifs. No moves proposed yet.
 
 ### Gate 2 — Independent reviews
-Five roles produce evidence-backed findings, covering every chapter and cross-chapter transitions. Compare V2 to the full master and Claude assembled source for unintentional losses.
+Five roles produce evidence-backed findings, covering every chapter and cross-chapter transitions. Compare V2 to overlapping chapters in the supplied latest complete manuscript, Claude's assembled source, and the editorial change record for unintentional losses; include any optional earlier master if supplied.
 
 ### Gate 3 — Cross-examination
 Challenge each candidate change with all five questions:
