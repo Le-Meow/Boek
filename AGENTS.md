@@ -3,7 +3,7 @@
 This is a **literary and theological nonfiction manuscript**, not a software project. The current task is a **whole-book structural audit**, not a rewrite.
 
 1. Read `editorial/CODEX_START.md`, `editorial/REVISION_PLAN.md`, and `editorial/chat-context-2026-10-27.md` before analysing prose.
-2. Verify **all required source files** in `sources/` and their version precedence. If missing, stop and name the files; NEVER substitute older repository PDFs without confirmation.
+2. The author may supply source files **directly to Codex** as attachments or local workspace files, rather than committing them to GitHub or putting them in a `sources/` directory. Verify the supplied manuscript, Chapters 8–13 V2, Claude's condensed Chapters 8–13, and V2 editorial change record regardless of path. If a required document is genuinely inaccessible, identify it; NEVER substitute older repository PDFs without confirmation.
 3. Preserve the thirteen-chapter structure as the initial hypothesis. Do not assume chapters should be shortened, merged or moved.
 4. Judge each suspected repeat by its paragraph, chapter, **whole-book progression**, and the reader's experience. A callback that introduces a new dimension or pays off an earlier scene is not redundancy.
 5. Always distinguish **the fall being re-established** from **the fall being revisited at a new theological or narrative level**. Keep the latter.
