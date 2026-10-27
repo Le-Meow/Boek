@@ -1,0 +1,5 @@
+# Keep working manuscript drafts and editorial review artifacts out of the public repository
+sources/
+editorial/reports/
+Codex_Book_Handoff*/
+*.zip
